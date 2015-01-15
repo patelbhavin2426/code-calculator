@@ -16,8 +16,6 @@ Notes:
 ======
 Walkthrough of all user stories:
 
-![Video walkthrough](http://imgur.com/09YfPE8) 
-
 <a href="http://imgur.com/09YfPE8"><img src="http://i.imgur.com/09YfPE8.gif?1" title="source: imgur.com" /></a>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
